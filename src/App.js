@@ -5,7 +5,6 @@ function App() {
   {id: 1, text: 'Comment one'},
   {id: 2, text: 'Comment two'},
   {id: 3, text: 'Comment three'},
-
   ];
 
   return (

@@ -228,3 +228,10 @@ input:focus {
     width: 80%;
   }
 }
+
+.stats {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
